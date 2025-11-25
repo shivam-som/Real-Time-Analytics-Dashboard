@@ -3,7 +3,8 @@
 A high-throughput real-time analytics system built with **Flask**, **Redis**, **WebSockets**, and a **React dashboard**.  
 Designed to stream live business metrics with **under 100ms latency**, featuring dynamic visualizations, caching logic, and scalable architecture for monitoring multiple data sources.
 
----
+<img width="871" height="584" alt="image" src="https://github.com/user-attachments/assets/3d992274-8ee5-482d-80fe-ae04f0d259e5" />
+
 
 ## 📌 Project Overview
 
