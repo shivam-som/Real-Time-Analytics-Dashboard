@@ -1,0 +1,1 @@
+Run `npm install` and `npm start`. Frontend expects backend at http://localhost:5000 by default.
