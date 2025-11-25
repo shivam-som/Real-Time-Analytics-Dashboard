@@ -131,7 +131,3 @@ Possible improvements for future expansion:
 - Docker Compose overrides  
 - Kubernetes manifests  
 - GitHub Actions CI/CD to AWS ECS, Fargate, or EKS  
-
----
-
-If you want an **architecture diagram**, **API documentation section**, or **installation steps for AWS deployment**, I can generate that too.
